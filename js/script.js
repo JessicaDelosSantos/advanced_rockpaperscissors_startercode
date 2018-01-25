@@ -27,4 +27,12 @@
 
 
 // DOCUMENT READY FUNCTION
+$(document).ready(function(){
+});
+$("#button").click(function(){
+        $("#button").click(function(){
+    var a=$("#choice").val();
+    $("#p").text(a);
+});
+
 
